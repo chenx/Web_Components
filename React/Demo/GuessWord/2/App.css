@@ -1,0 +1,40 @@
+.app {
+  color: #353C4E;
+  /* background: white; #F0F2F4; */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* height: 100%; */
+  padding-bottom: 50px;
+}
+
+.board {
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.cell {
+  display: inline-block;
+  width: 50px;
+  height: 45px;
+  line-height: 45px;
+  border: solid 1px #999;
+  padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 2px;
+}
+
+.green {
+  background-color: green;
+}
+
+.score {
+  padding-right: 20px;
+}
+
+.btn {
+  height: 40px;
+  width: 100px;
+}
