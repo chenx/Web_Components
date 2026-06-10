@@ -1,6 +1,7 @@
 # React example projects
 
-https://github.com/topics/react-example
+- 52 React projects: https://github.com/topics/react-example
+- 51 Next.js projects: https://github.com/topics/nextjs-project
 
 Hooks:
 - useState
